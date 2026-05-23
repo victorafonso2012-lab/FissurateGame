@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - noProjectile
+  - Hit
+  - Limitadores
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - PlayerAttack
+  - Mundo
+  - Player
+  - ScannerOnly
+  - ScannerHighlight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3801917211
+    locked: 0
+  - name: "Casas de tr\xE1s"
+    uniqueID: 4248800237
+    locked: 0
+  - name: Casas voando
+    uniqueID: 1716134619
+    locked: 0
+  - name: Casas do meio
+    uniqueID: 897422017
+    locked: 0
+  - name: Casa da frente
+    uniqueID: 1769814455
+    locked: 0
+  - name: Rua
+    uniqueID: 302276767
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2861811731
+    locked: 0
+  - name: Pantano
+    uniqueID: 2319547103
+    locked: 0
+  - name: Particulas
+    uniqueID: 1155709281
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
